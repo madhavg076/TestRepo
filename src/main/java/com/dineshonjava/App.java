@@ -1,5 +1,3 @@
-package com.dineshonjava;
-
 /**
  * Hello world!
  *
